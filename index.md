@@ -24,3 +24,4 @@ Et un exemple de commentaire négatif :
 
 La base de données a été préparée au préalable et se compose de 25 000 commentaires dans l’échantillon d’entraînement et 25 000 commentaires dans l’échantillon de test. Par ailleurs, les données sont équilibrées car elles sont composées de 50% de commentaires positifs et 50% de commentaires négatifs.
 
+![alt text](https://miro.medium.com/max/425/1*eNGHL7956O3YuJayHp7dJQ.png)
