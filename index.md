@@ -177,6 +177,8 @@ Le notebook complet peut être trouvé [ici](https://github.com/aminaghoul/senti
 
 ### Pour la suite :
 
+Plusieurs autres modèles ont été implémentés pour cette tâche d’analyse de sentiments comme :
+
  - [Machine Learning (SVM, Régression Logistique) avec sklearn](https://github.com/aminaghoul/sentiment-analysis/blob/master/0-MachineLearning.ipynb)
  - [RNN simple](https://github.com/aminaghoul/sentiment-analysis/blob/master/1_RNN_Simple.ipynb)
  - [BiLSTM](https://github.com/aminaghoul/sentiment-analysis/blob/master/2a_LSTM.ipynb)
@@ -195,7 +197,3 @@ Le notebook complet peut être trouvé [ici](https://github.com/aminaghoul/senti
     https://github.com/aminaghoul/sentiment-analysis/blob/master/5b_AttentionLSTM.ipynb
     https://github.com/prakashpandey9/Text-Classification-Pytorch/blob/master/models/LSTM_Attn.py
     https://www.aclweb.org/anthology/W18-6226/
-
-Plusieurs autres modèles ont été implémentés pour cette tâche d’analyse de sentiments comme :
-
-
