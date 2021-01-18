@@ -2,7 +2,7 @@
  Diplômée d'un master en Data Science, option santé de l'université Paris-Saclay. Je présenterai dans ce site plusieurs article traitant des statistiques, de Machine Learning, Deep Learning.
 
 
-# Analyse de sentiments avec PyTorch — Code complet
+# [Analyse de sentiments avec PyTorch — Code complet](art1.md)
 ## Attention et BiLSTM pour le NLP
 
 Dans cet article, je vais présenter une tâche d’analyse de sentiments sur le jeu de données IMDb Reviews, en utilisant un modèle d’attention et de BiLSTM, codé avec PyTorch.
