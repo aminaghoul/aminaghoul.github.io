@@ -1,5 +1,5 @@
 
- Diplômée d'un master en Data Science, option santé de l'université Paris-Saclay. Je présenterai dans ce site plusieurs article traitant des statistiques, de Machine Learning, Deep Learning.
+ Diplômée d'un master en Data Science, option santé de l'université Paris-Saclay. Je présenterai sur ce site plusieurs articles traitant des statistiques, de Machine Learning et de Deep Learning appliqués à des domaines diverses (NLP, robotique...).
 
 
 # [Analyse de sentiments avec PyTorch — Code complet](art1.md)
@@ -190,6 +190,7 @@ Plusieurs autres modèles ont été implémentés pour cette tâche d’analyse 
  - [Transformers + GRU](https://github.com/aminaghoul/sentiment-analysis/blob/master/6a-TransformersGRU.ipynb)
  - [Transformers (from scratch)](https://github.com/aminaghoul/sentiment-analysis/blob/master/7-Transorfmers.ipynb)
  - [BERT](https://github.com/aminaghoul/sentiment-analysis/blob/master/8-BERT.ipynb)
+ 
  
  ### Références :
 
