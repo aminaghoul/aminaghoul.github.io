@@ -1,5 +1,5 @@
 
- Diplômée d'un master en Data Science, option santé de l'université Paris-Saclay. Je présenterai sur ce site plusieurs articles traitant des statistiques, de Machine Learning et de Deep Learning appliqués à des domaines diverses (NLP, robotique...).
+Actuellement en thèse de doctorat à l'Inria et à Paris Sorbonne, je présenterai sur ce site plusieurs articles traitant des statistiques, de Machine Learning et de Deep Learning appliqués à des domaines diverses (NLP, robotique...).
 
 
 # [Analyse de sentiments avec PyTorch — Code complet](art1.md)
